@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/TicketsBot/patreon-go"
+	"github.com/mxpv/patreon-go"
 	"github.com/TicketsBot/patreon-lookup-proxy/config"
 	"github.com/apex/log"
 	"time"

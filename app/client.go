@@ -2,7 +2,7 @@ package app
 
 import (
 	"context"
-	"github.com/TicketsBot/patreon-go"
+	"github.com/mxpv/patreon-go"
 	"github.com/TicketsBot/patreon-lookup-proxy/config"
 	"golang.org/x/oauth2"
 )
